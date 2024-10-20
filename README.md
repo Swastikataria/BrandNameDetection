@@ -16,6 +16,9 @@ Tools Used-
 - FuzzyWuzzy for approximate string matching
 
 Use Case-
+
 This solution can help retailers and e-commerce platforms automate inventory management by scanning product labels, counting brand occurrences, and providing insights into stock levels.
+
+
 
 ![image](https://github.com/user-attachments/assets/2cc2429c-cc01-41da-b608-34134aaeab1e)
